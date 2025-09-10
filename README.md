@@ -8,3 +8,6 @@ Data Analyst Portfolio A curated collection of real-world data projects showcasi
 - Skilled in creating **interactive dashboards** using Tableau and Power BI to communicate insights and support business decisions
 - Strong knowledge of statistical analysis and forecasting techniques
 - Experience working with cross-functional teams in agile environments
+
+
+
